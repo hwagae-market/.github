@@ -27,6 +27,6 @@
 ## 📁 PSP
 | 프로젝트명 | 프로젝트 소개 | 참여자 |
 | :- | :- | :- |
-| [**다풀어**](https://github.com/goorm-fullstack/RevengersIDE) | 첫 번째 프로젝트 다풀어 : 문제 공유 플랫폼 | [WhiteKIM](https://github.com/whitekim), [yook-jongho](https://github.com/yook-jongho), [kwh1208](https://github.com/kwh1208), [rlaalstj0117]()
+| [**다풀어**](https://github.com/goorm-fullstack/RevengersIDE) | 첫 번째 프로젝트 다풀어 : 문제 공유 플랫폼 | [WhiteKIM](https://github.com/whitekim), [yook-jongho](https://github.com/yook-jongho), [rlaalstj0117]()
 
 <br />
